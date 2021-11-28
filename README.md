@@ -10,6 +10,10 @@
 Requirements:
 - it works on windows pc with powershell only
 
+Note how to make it more convenient:
+- create link to `add uk lang.bat` or `remove uk lang.bat` file inside any folder
+- RMC(right mouse click) -> properties -> windows -> choose minimized window
 
+So now you can use the link and cmd will not make any splaches on screen.
 
  
